@@ -1,0 +1,8 @@
+Flask
+numpy
+librosa
+moviepy
+mediapipe
+scipy
+reportlab
+pyarmor
